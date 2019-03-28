@@ -1,3 +1,7 @@
+#### For interviewers: 
+
+It's a plain UI, there's a list of properties (`lodging` type from Google Places API). When you click on a property, it makes request to backend service (localhost:3333) and makes a booking and refreshes the UI just with "booked" checkmark next to it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
